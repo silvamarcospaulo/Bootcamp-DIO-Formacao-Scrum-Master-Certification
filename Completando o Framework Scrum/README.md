@@ -27,8 +27,7 @@ este Desafio você assumirá o protagonismo e terá que completar o Framework Sc
 
 <img align="center" src="https://github.com/silvamarcospaulo/Bootcamp-DIO-Formacao-Scrum-Master-Certification/blob/main/Completando%20o%20Framework%20Scrum/Imagens/Projeto.png" width=""/> 
 
-### Link da Board no Miro :
-https://miro.com/app/board/uXjVNPLBdHw=/?share_link_id=448002141183
+Para visualizar no Miro [clique aqui](https://miro.com/welcomeonboard/WFRTOFF3NTVLWDFlZEFsSUhzSFhEcXVzRkhRSTBhbk01SGlIaEFhSXl1MlNFSGFyanVtZE04NjVTSXBRNElWUnwzNDU4NzY0NTgzODA2MjcyODQ5fDI=?share_link_id=96334162463)
 
 ## Autor
 
