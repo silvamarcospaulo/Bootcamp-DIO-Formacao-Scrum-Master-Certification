@@ -15,6 +15,21 @@ este Desafio você assumirá o protagonismo e terá que completar o Framework Sc
 
 ## Desenvolvimento
 
+### 1 - TO DO: Preencha o Mapa Mental abaixo com os PILARES e VALORES do Scrum.
+
+<img align="center" src="https://github.com/silvamarcospaulo/Bootcamp-DIO-Formacao-Scrum-Master-Certification/blob/main/Completando%20o%20Framework%20Scrum/Imagens/Mapa%20mental.png" width=""/> 
+
+### 2 - TO DO: Movimente os cards da "mesa" para as colunas corretas.
+
+<img align="center" src="https://github.com/silvamarcospaulo/Bootcamp-DIO-Formacao-Scrum-Master-Certification/blob/main/Completando%20o%20Framework%20Scrum/Imagens/Mesa.png" width=""/> 
+
+### 3 - TO DO: Preencha o Framework Scrum com todos os Eventos, Artefatos e Papéis.
+
+<img align="center" src="https://github.com/silvamarcospaulo/Bootcamp-DIO-Formacao-Scrum-Master-Certification/blob/main/Completando%20o%20Framework%20Scrum/Imagens/Projeto.png" width=""/> 
+
+### Link da Board no Miro :
+https://miro.com/app/board/uXjVNPLBdHw=/?share_link_id=448002141183
+
 ## Autor
 
 **Marcos Paulo Silva**
